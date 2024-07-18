@@ -1,3 +1,4 @@
+```yaml
 # title of website
 title: 导航
 
@@ -14,7 +15,7 @@ url: https://564398053.github.io/nav_page/
 # github: "https://github.com/564398053"
 
 # footer message
-footer: © 2021-2021 @564398053
+footer: "© 2021-2021 @564398053"
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -24,108 +25,109 @@ template: webstack
 google_analytics: "G-EXE1PJ8CR2"
 
 webstack:
-content:
-  categories:
-    - name: 视频
-      sites:
-        - name: YouTube
-          url: https://www.youtube.com/
-        - name: Vimeo
-          url: https://vimeo.com/
-        - name: Dailymotion
-          url: https://www.dailymotion.com/
-        - name: Facebook
-          url: https://www.facebook.com/
-        - name: Twitch
-          url: https://www.twitch.tv/
+  content:
+    categories:
+      - name: 视频
+        sites:
+          - name: YouTube
+            url: https://www.youtube.com/
+          - name: Vimeo
+            url: https://vimeo.com/
+          - name: Dailymotion
+            url: https://www.dailymotion.com/
+          - name: Facebook
+            url: https://www.facebook.com/
+          - name: Twitch
+            url: https://www.twitch.tv/
 
-    - name: 社交媒体
-      sites:
-        - name: Twitter
-          url: https://twitter.com/
-        - name: Instagram
-          url: https://www.instagram.com/
-        - name: TikTok
-          url: https://www.tiktok.com/
-        - name: Reddit
-          url: https://www.reddit.com/
-        - name: Facebook
-          url: https://www.facebook.com/
+      - name: 社交媒体
+        sites:
+          - name: Twitter
+            url: https://twitter.com/
+          - name: Instagram
+            url: https://www.instagram.com/
+          - name: TikTok
+            url: https://www.tiktok.com/
+          - name: Reddit
+            url: https://www.reddit.com/
+          - name: Facebook
+            url: https://www.facebook.com/
 
-    - name: 新闻
-      sites:
-        - name: BBC
-          url: https://www.bbc.com/
-        - name: CNN
-          url: https://www.cnn.com/
-        - name: New York Times
-          url: https://www.nytimes.com/
-        - name: Guardian
-          url: https://www.theguardian.com/
-        - name: Al Jazeera
-          url: https://www.aljazeera.com/
+      - name: 新闻
+        sites:
+          - name: BBC
+            url: https://www.bbc.com/
+          - name: CNN
+            url: https://www.cnn.com/
+          - name: New York Times
+            url: https://www.nytimes.com/
+          - name: Guardian
+            url: https://www.theguardian.com/
+          - name: Al Jazeera
+            url: https://www.aljazeera.com/
 
-    - name: 教育
-      sites:
-        - name: Khan Academy
-          url: https://www.khanacademy.org/
-        - name: Coursera
-          url: https://www.coursera.org/
-        - name: edX
-          url: https://www.edx.org/
-        - name: Udemy
-          url: https://www.udemy.com/
-        - name: YouTube
-          url: https://www.youtube.com/
+      - name: 教育
+        sites:
+          - name: Khan Academy
+            url: https://www.khanacademy.org/
+          - name: Coursera
+            url: https://www.coursera.org/
+          - name: edX
+            url: https://www.edx.org/
+          - name: Udemy
+            url: https://www.udemy.com/
+          - name: YouTube
+            url: https://www.youtube.com/
 
-    - name: 运动
-      sites:
-        - name: ESPN
-          url: https://www.espn.com/
-        - name: NFL
-          url: https://www.nfl.com/
-        - name: NBA
-          url: https://www.nba.com/
-        - name: MLB
-          url: https://www.mlb.com/
-        - name: YouTube
-          url: https://www.youtube.com/
+      - name: 运动
+        sites:
+          - name: ESPN
+            url: https://www.espn.com/
+          - name: NFL
+            url: https://www.nfl.com/
+          - name: NBA
+            url: https://www.nba.com/
+          - name: MLB
+            url: https://www.mlb.com/
+          - name: YouTube
+            url: https://www.youtube.com/
 
-    - name: 游戏
-      sites:
-        - name: Twitch
-          url: https://www.twitch.tv/
-        - name: YouTube Gaming
-          url: https://gaming.youtube.com/
-        - name: Facebook Gaming
-          url: https://www.facebook.com/gaming/
-        - name: Mixer (formerly)
-          url: https://mixer.com/
-        - name: Steam
-          url: https://store.steampowered.com/
+      - name: 游戏
+        sites:
+          - name: Twitch
+            url: https://www.twitch.tv/
+          - name: YouTube Gaming
+            url: https://gaming.youtube.com/
+          - name: Facebook Gaming
+            url: https://www.facebook.com/gaming/
+          - name: Mixer (formerly)
+            url: https://mixer.com/
+          - name: Steam
+            url: https://store.steampowered.com/
 
-    - name: 直播
-      sites:
-        - name: Twitch
-          url: https://www.twitch.tv/
-        - name: YouTube Live
-          url: https://www.youtube.com/live
-        - name: Facebook Live
-          url: https://www.facebook.com/live/
-        - name: Instagram Live
-          url: https://www.instagram.com/live/
-        - name: 17.Live
-          url: https://17.live/
+      - name: 直播
+        sites:
+          - name: Twitch
+            url: https://www.twitch.tv/
+          - name: YouTube Live
+            url: https://www.youtube.com/live
+          - name: Facebook Live
+            url: https://www.facebook.com/live/
+          - name: Instagram Live
+            url: https://www.instagram.com/live/
+          - name: 17.Live
+            url: https://17.live/
 
-    - name: 成人内容
-      sites:
-        - name: Pornhub
-          url: https://www.pornhub.com/
-        - name: Xvideos
-          url: https://www.xvideos.com/
-        - name: XNXX
-          url: https://www.xnxx.com/
-        - name: RedTube
-          url: https://www.redtube.com/
-        - name: YouPorn
-          url: https://www.youporn.com/
+      - name: 成人内容
+        sites:
+          - name: Pornhub
+            url: https://www.pornhub.com/
+          - name: Xvideos
+            url: https://www.xvideos.com/
+          - name: XNXX
+            url: https://www.xnxx.com/
+          - name: RedTube
+            url: https://www.redtube.com/
+          - name: YouPorn
+            url: https://www.youporn.com/
+```
