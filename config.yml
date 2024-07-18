@@ -1,4 +1,3 @@
-```yaml
 # title of website
 title: 导航
 
@@ -130,4 +129,3 @@ webstack:
             url: https://www.redtube.com/
           - name: YouPorn
             url: https://www.youporn.com/
-```
